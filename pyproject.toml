@@ -1,0 +1,14 @@
+[project]
+name = "sumo-data-foundation"
+version = "0.1.0"
+description = "Reproducible historical sumo data ingestion and validation pipeline."
+requires-python = ">=3.10"
+dependencies = [
+  "openpyxl>=3.1",
+]
+
+[project.scripts]
+sumo-data = "sumo_data.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["sumo_data*"]

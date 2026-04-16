@@ -1,0 +1,9 @@
+basho_id,year,month,division,bout_count,day_count,first_day,last_day,missing_winner_count,missing_target_count,fusen_count,missing_kimarite_count
+202501,2025,1,Makuuchi,295,15,1,15,0,0,3,0
+202503,2025,3,Makuuchi,310,15,1,15,0,0,2,0
+202505,2025,5,Makuuchi,315,15,1,15,0,0,0,0
+202507,2025,7,Makuuchi,295,15,1,15,0,0,5,0
+202509,2025,9,Makuuchi,314,15,1,15,0,0,1,0
+202511,2025,11,Makuuchi,316,15,1,15,0,0,1,0
+202601,2026,1,Makuuchi,314,15,1,15,0,0,2,0
+202603,2026,3,Makuuchi,298,15,1,15,0,0,6,0
